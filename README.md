@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Abinet, a passionate software developer <br>👋Specializing in Flutter for mobile app development and  MERN stack (MongoDB, Express, React, Node.js)<br>💡 Currently Interning at Santim Pay, putting my skills to work<br>💡 And also trainee at A2SV experience in advanced data structures and exciting projects<br>📫 Let's Connect.<br>
+👋 Hey there! I'm Abinet, a passionate software developer <br>👋Specializing in Flutter for mobile app development and  MERN stack (MongoDB, Express, React, Node.js) and Next.js <br>💡 I have 3 years of experience in software development💡 I worked on different mobile and web application projects.📫 Let's Connect.<br>
 
 
 ## 🌐 Socials:
